@@ -1,10 +1,10 @@
 # Eloquent Relationships
 
-This practical explore the use of Eloquent relationships, specifically a one-to-many relationship which is implemented in Eloquent using _Has Many_ and _Belongs To_.
+This practical explores the use of Eloquent relationships, specifically a one-to-many relationship which is implemented in Eloquent using _Has Many_ and _Belongs To_.
 
 The starting point for this practical is the **Intro to Laravel** practical we did a couple of weeks ago.
 
--   You'll probably need to change the _DocumentRoot_ settings in your _httpd.conf_ file to set _film-app_ example as the web server root e.g.
+-   If you've completed this work you'll probably need to change the _DocumentRoot_ settings in your _httpd.conf_ file to set _film-app_ example as the web server root e.g.
 
     ```
     DocumentRoot "/xampp/htdocs/film-app/public"
